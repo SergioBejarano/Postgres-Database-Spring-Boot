@@ -40,3 +40,12 @@ La API quedará disponible en `http://localhost:8081`. El endpoint actual para p
 ```
 
 Puedes consultar usuarios creados con `GET /v1/user/{id}`.
+
+
+## Evidence - Postman
+
+
+<img width="2101" height="1039" alt="Captura de pantalla 2026-02-16 185811" src="https://github.com/user-attachments/assets/2ac8cae6-3e40-4fa3-9ede-f4ecda8fe465" />
+
+
+<img width="2117" height="1081" alt="image" src="https://github.com/user-attachments/assets/60e0f5c9-16e4-46a6-9236-c12d20cb6580" />
